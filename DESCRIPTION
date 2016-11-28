@@ -1,7 +1,7 @@
 Package: LunchandLearn
 Type: Package
 Title: Data Sets and Functions for the R Lunch-and-Learn
-Version: 0.1.0
+Version: 0.1.1
 Author: Nathanael Gay
 Maintainer: Nathanael Gay <ngay@keiseruniversity.edu>
 Description: These will be data sets and functions that we will use in the

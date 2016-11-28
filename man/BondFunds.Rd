@@ -10,14 +10,14 @@ Levine, David, David Stephan, and Kathryn Szabat.  Statistics for Managers Using
 \description{
 Select qualities of 180 bond funds.
 \itemize{
-\item Fund Number
+\item FundNumber
 \item Type
 \item Assets
 \item Fees
-\item Expense Ratio
-\item Return 2008
-\item 3-Year Return
-\item 5-Year Return
+\item ExpenseRatio
+\item Return2008
+\item 3YearReturn
+\item 5YearReturn
 \item Risk
 }
 }
